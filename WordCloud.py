@@ -2,8 +2,6 @@
 
 @author Jinal Shah
 
-1. Create a word cloud from a given text in python(use existing modules)
-
 """
 import wordcloud
 
